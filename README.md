@@ -2,6 +2,3 @@
 GitBox test repository
 
 moooomin
-tralalalaa
-pony pony
-hgswrhf
