@@ -2,6 +2,3 @@
 GitBox test repository
 
 gasedgedg
-hsred
-fafesw
-faewfd
